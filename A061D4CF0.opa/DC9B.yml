@@ -1,0 +1,27 @@
+segment_sources:
+  I3D889326:
+    type: origin_type
+    relation: translation
+    base: '9393'
+    lang: en
+  IBDD966A9:
+    type: origin_type
+    relation: translation
+    base: CBDD
+    lang: bo
+segment_pairs:
+  986fd3e0b1bc479192217f7a1ba2d5d8:
+    I3D889326: 04c2dbffaeb94ca4be9d4f83af237c0d
+    IBDD966A9: a21e4ae80cdc48f18dd96023814493d4
+  d44a124209bb4f748bbb7568cac56d3d:
+    I3D889326: 2349bdd1c95342ad9a0dca5cb5efd935
+    IBDD966A9: e92e93730b6a4106be9aa444ef8d0cb0
+  830e9dd407ab4fa89abe8e3c1301a9f8:
+    I3D889326: 44047838ec1e48b0a78035ae30026d83
+    IBDD966A9: 3800f1dcc99b4fb1ae6c2cad6f2469ca
+  d86ce17dee8d4de6bf70bf50ca35498b:
+    I3D889326: cf046038340e41bfab4b3eb693bf4fb0
+    IBDD966A9: e41bec298b3d4906ac07b038afdd6e2b
+  59363d670df74be1b0b342488d70f370:
+    I3D889326: d0a1db3875344cb0849fa3ba56f1a45b
+    IBDD966A9: a31634ccc390472ab9c77ff7138b2bd4
